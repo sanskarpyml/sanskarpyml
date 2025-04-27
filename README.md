@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Machine Learning Banner" width="100%">
+
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
 <h3 align="center">Aspiring Data Scientist | Learning python, Machine Learning, Tableau, SQL, Excel</h3>
 
